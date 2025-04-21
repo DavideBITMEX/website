@@ -101,17 +101,17 @@ work:
       - Currently developing an R-Shiny application to showcase research findings to a broader audience
       - Poster Presentation, presented at ECS Conference in 2024
   - position: Guest Student - Researcher
-      company_name: Woods Hole Oceanographic Institution (WHOI), Marine Mammals and Bioacoustics Lab.
-      company_url: ''
-      company_logo: ''
-      date_start: 2022-10-01
-      date_end: '2023-09-31'
-      summary: |2-
-        - Extracted, cleaned, and manipulated acoustic data to enable analysis in a time series format
-        - Applied data-interpolation techniques to deal with missing values
-        - Applied Dynamic Time Warping in combination with Dimensionality Reduction Techniques (MDS, t-SNE, and UMAP) to handle complex data structures
-        - Implemented Clustering Algorithms to classify animal vocalizations
-        - Contributed to the expansion of the “Sarasota Dolphin Whistle Database”
+    company_name: "Woods Hole Oceanographic Institution (WHOI), Marine Mammals and Bioacoustics Lab."
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-10-01
+    date_end: '2023-09-30'   
+    summary: |2-
+      - Extracted, cleaned, and manipulated acoustic data to enable analysis in a time series format
+      - Applied data-interpolation techniques to deal with missing values
+      - Applied Dynamic Time Warping in combination with Dimensionality Reduction Techniques (MDS, t-SNE, and UMAP) to handle complex data structures
+      - Implemented Clustering Algorithms to classify animal vocalizations
+      - Contributed to the expansion of the “Sarasota Dolphin Whistle Database”
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
