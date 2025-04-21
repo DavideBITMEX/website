@@ -31,16 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'davidebittelli@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/DavideBITMEX
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/davide-bittelli/
+  - icon: brands/youtube
+    url: https://www.youtube.com/@davidebittelli
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
