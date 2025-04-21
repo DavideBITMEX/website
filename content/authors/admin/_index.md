@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Davide Bittelli
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Davide
+last_name: Bittelli
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: German Oceanographic Museum
+    url: https://www.deutsches-meeresmuseum.de
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +47,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistics
+  - Machine Learning
+  - Underwater Acoustics
+  - R-Shiny
 
 education:
   - area: PhD Artificial Intelligence
@@ -72,8 +73,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Statistical Sciences
+    institution: University of Bologna
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
