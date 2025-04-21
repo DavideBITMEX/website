@@ -71,8 +71,6 @@ education:
     date_start: 2018-09-01
     date_end: 2021-10-31
     summary: |
-      GPA: 3.4/4.0
-      
       - Statistics
       - Mathematics
       - Econometrics
@@ -150,10 +148,12 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Italian
+    percent: 100
+  - name: Spanish
+    percent: 100
+  - name: French
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
