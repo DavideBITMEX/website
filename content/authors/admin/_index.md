@@ -100,7 +100,7 @@ work:
       - Passive Acoustics Monitoring (PAM) analysis
       - Currently developing an R-Shiny application to showcase research findings to a broader audience
       - Poster Presentation, presented at ECS Conference in 2024
-  - position: Guest Student - Researcher
+  - position: Guest Student, Researcher
       company_name: Woods Hole Oceanographic Institution (WHOI), Marine Mammals and Bioacoustics Lab.
       company_url: ''
       company_logo: ''
