@@ -66,7 +66,7 @@ education:
       url: 'https://…'
 
   - area: "MSc Exchange Semester: Machine Learning and Data Mining"
-    institution: "**Universidad Complutense de Madrid**"
+    institution: *Universidad Complutense de Madrid*
     date_start: 2022-01-01
     date_end: 2022-07-31
     summary: |
