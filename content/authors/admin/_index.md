@@ -60,23 +60,26 @@ education:
       - Bayesian Inference
       - Advanced Probability
     
-      Thesis on Clustering Methods for Classifying Common Bottlenose Dolphin Whistles. Supervised by [Prof Martin Hennig](https://www.unibo.it/sitoweb/christian.hennig/), [Dr. Laela Sayigh](https://www.whoi.edu/profile/lsayigh/) and [Dr. Frants Havmand Jensen](https://frantsjensen.weebly.com/).
+      Thesis on Clustering Methods…
     button:
       text: 'Read Thesis'
-      url: 'https://davidebittelli.com/wp-content/uploads/2024/12/Clustering-Methods-for-Classifying-Commong-Bottlenose-Dolphin-Whistles.pdf'
+      url: 'https://…'
+
   - area: "MSc Exchange Semester: Machine Learning and Data Mining"
     institution: "**Universidad Complutense de Madrid**"
     date_start: 2022-01-01
     date_end: 2022-07-31
     summary: |
       - Machine Learning
-- area: "BSc Exchange Semester: Statistical Sciences and Economics"
+
+  - area: "BSc Exchange Semester: Statistical Sciences and Economics"
     institution: "**Warsaw University of Life Sciences**"
     date_start: 2022-01-01
     date_end: 2022-07-31
     summary: |
       - Time Series Analysis
       - Econometrics
+
   - area: "BSc Statistical Sciences"
     institution: "**University of Bologna**"
     date_start: 2018-09-01
