@@ -63,7 +63,7 @@ education:
       Thesis on Clustering Methods…
     button:
       text: 'Read Thesis'
-      url: 'https://…'
+      url: 'https://davidebittelli.com/wp-content/uploads/2024/12/Clustering-Methods-for-Classifying-Commong-Bottlenose-Dolphin-Whistles.pdf'
 
   - area: MSc Exchange Semester: Machine Learning and Data Mining
     institution: Universidad Complutense de Madrid
