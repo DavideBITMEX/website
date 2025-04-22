@@ -52,7 +52,7 @@ interests:
 
 education:
   - area: MSc Statistical Sciences, Data Science
-    institution: **University of Bologna
+    institution: **University of Bologna**
     date_start: 2021-10-01
     date_end: 2024-03-31
     summary: |
@@ -65,20 +65,20 @@ education:
       text: 'Read Thesis'
       url: 'https://davidebittelli.com/wp-content/uploads/2024/12/Clustering-Methods-for-Classifying-Commong-Bottlenose-Dolphin-Whistles.pdf'
   - area: MSc Exchange Semester: Machine Learning and Data Mining
-    institution: **Universidad Complutense de Madrid
+    institution: **Universidad Complutense de Madrid**
     date_start: 2022-01-01
     date_end: 2022-07-31
     summary: |
       - Machine Learning
 - area: BSc Exchange Semester: Statistical Sciences and Economics
-    institution: **Warsaw University of Life Sciences
+    institution: **Warsaw University of Life Sciences**
     date_start: 2022-01-01
     date_end: 2022-07-31
     summary: |
       - Time Series Analysis
       - Econometrics
   - area: BSc Statistical Sciences
-    institution: **University of Bologna
+    institution: **University of Bologna**
     date_start: 2018-09-01
     date_end: 2021-10-31
     summary: |
