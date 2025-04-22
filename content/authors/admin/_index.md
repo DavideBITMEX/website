@@ -52,7 +52,7 @@ interests:
 
 education:
   - area: MSc Statistical Sciences, Data Science
-    institution: University of Bologna
+    institution: "<strong>University of Bologna</strong>"
     date_start: 2021-10-01
     date_end: 2024-03-31
     summary: |
@@ -73,7 +73,7 @@ education:
       - Machine Learning
 
   - area: "BSc Exchange Semester: Statistical Sciences and Economics"
-    institution: '**Warsaw University of Life Sciences**'
+    institution: Warsaw University of Life Sciences
     date_start: 2022-01-01
     date_end: 2022-07-31
     summary: |
