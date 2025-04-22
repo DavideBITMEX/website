@@ -51,8 +51,8 @@ interests:
   - R-Shiny
 
 education:
-  - area: "MSc Statistical Sciences, Data Science"
-    institution: '__University of Bologna__'
+  - area: MSc Statistical Sciences, Data Science
+    institution: "**University of Bologna**"
     date_start: 2021-10-01
     date_end: 2024-03-31
     summary: |
