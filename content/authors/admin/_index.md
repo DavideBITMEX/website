@@ -52,7 +52,7 @@ interests:
 
 education:
   - area: MSc Statistical Sciences, Data Science
-    institution: "<strong>University of Bologna</strong>"
+    institution: University of Bologna
     date_start: 2021-10-01
     date_end: 2024-03-31
     summary: |
