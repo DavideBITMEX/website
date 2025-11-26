@@ -30,7 +30,6 @@ marketing:
 header:
   navbar:
     enable: true
-    background-color: "06182a"
     blox: "navbar"
     fixed_to_top: true
     show_search: true
