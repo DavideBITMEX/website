@@ -49,7 +49,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: true # find this tag in each pubblication index.md...
     design:
       view: article-grid
       columns: 3
