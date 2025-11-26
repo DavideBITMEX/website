@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Scientist
+role: PhD student | Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: German Oceanographic Museum
-    url: https://www.deutsches-meeresmuseum.de
+  - name: LMA - CNRS
+    url: https://laboratoire-mecanique-acoustique.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -51,6 +51,14 @@ interests:
   - R-Shiny
 
 education:
+  - area: "PhD Underwater Acoustics & Seismology"
+    institution: Laboratoire de Mechanique et d'Acoustique (CNRS)
+    date_start: 2025-11-01
+    date_end: ''
+    summary: |
+      Marie Sklodowska-Curie Actions (MSCA) Doctoral Network 'BETTER'
+      Thesis on influence of marine environment properties on noise propagation and seabed vibrations induced by pile driving
+
   - area: MSc Statistical Sciences, Data Science
     institution: University of Bologna
     date_start: 2021-10-01
@@ -94,7 +102,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-06-15
-    date_end: ''
+    date_end: 2024-06-11
     summary: |2-
       - Collection, cleaning, and manipulation of data, including large acoustic and environmental datasets
       - Developed an R-Shiny application to enhance the dissemination of visualizations, insights, and results from the PAL-CE Project
