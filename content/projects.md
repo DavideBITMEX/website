@@ -15,7 +15,7 @@ sections:
       text: I genuinely enjoy coding and analyzing data. Here are a selection of projects that I have been working on.
       filters:
         folders:
-          - project
+          - teaching
     design:
       view: article-grid
       fill_image: false
