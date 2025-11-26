@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Davide Bittelli"
+      filename: "logo.png" # Place in assets/media/
 
 # Site footer
 footer:
