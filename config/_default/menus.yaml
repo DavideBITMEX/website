@@ -11,17 +11,17 @@ main:
     url: experience/
     weight: 11
   - name: Projects
-    url: projects/
+    url: teaching/
     weight: 12
   - name: Pubblications
-    url: /#papers
+    url: /#papers # '#' means that it will direct it within the 'About' page
     weight: 13
-  - name: Adventures
-    url: teaching/
-    weight: 20
-  - name: News
-    url: /#news
-    weight: 30
+  #- name: Adventures
+    #url: teaching/
+    #weight: 20
+  #- name: News
+    #url: /#news
+    #weight: 30
   #- name: Talks
     #url: /#talks
     #weight: 40
