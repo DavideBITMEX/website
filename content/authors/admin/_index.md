@@ -102,7 +102,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-06-15
-    date_end: 2024-06-11
+    date_end: 2025-06-11
     summary: |2-
       - Collection, cleaning, and manipulation of data, including large acoustic and environmental datasets
       - Developed an R-Shiny application to enhance the dissemination of visualizations, insights, and results from the PAL-CE Project
